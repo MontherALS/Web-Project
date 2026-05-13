@@ -99,12 +99,12 @@
         </div>
 
         <div class="contact-social">
-            <a href="#" class="social-btn" target="_blank" rel="noopener noreferrer">
+            <a href="https://www.linkedin.com/in/monther-alshammari-2453b0342/" class="social-btn" target="_blank" rel="noopener noreferrer">
                 <img src="image/LinkedinGif.gif" alt="LinkedIn">
                 <span>LinkedIn</span>
             </a>
 
-            <a href="#" class="social-btn" target="_blank" rel="noopener noreferrer">
+            <a href="https://github.com/MontherALS" class="social-btn" target="_blank" rel="noopener noreferrer">
                 <img src="image/GitubGif.gif" alt="GitHub">
                 <span>GitHub</span>
             </a>
